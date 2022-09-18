@@ -1,0 +1,43 @@
+18/06/2022
+**Server News**
+Firstly, I would like to thank @KingJellyfish for helping with this issue and suggesting a new format for future instalments of this "newspaper." Secondly I would like to congratulate @canadian frog for becoming a part of the staff team as an admin.
+
+**International News**
+:flag_ru: :flag_ua: The war between Russia and Ukraine is having drastic effects on the global supply of noble gasses, which are important in semiconductor manufacturing. That means the chip shortage is likely to continue, and possibly worsen. Russia supplies 30% of the global neon, krypton and xenon supply, and Ukraine produced 90% of the word's neon supply in 2014 but has since decreased. The battle for Severodonetsk rages on as UAF continue to holdout in the city centre and the Azot plant. Humanitarian corridors are to be opened for civilians to flee Severodonetsk into Lisichansk, still under Ukrainian control.
+{{James Kitching}}
+
+:flag_rw: :flag_cd: M23 rebels in the DRC have seized the eastern border town of Bunagana on Monday. President Tshisekedi's goverment has blamed Rwanda for the incident
+{{Mikolaj Szum}}
+
+:flag_sy: :flag_tr: A new Turkish military operation in Syria may be launched after the completion of the current Turkish army cross-border operation in northern Iraq, the Hürriyet newspaper reported
+{{Mikolaj Szum}}
+
+:flag_fr: the Nupes (leftist coalition) and the presidential majority are neck and neck in the first round of the legislative elections (25.66% and 25.75%). While the National Rally is positioned as the 3rd political force with 18.68% of the vote.
+{{Mikolaj Szum}}
+
+🌍 Global inflation is at an all-time high due to significant supply chain disruptions and increasing COVID-19 cases in China. "The global streak of high inflation is far from over", according to Reuters. Economists are struggling to predict this unprecedented increase in inflation all over the globe.
+{{James Kitching}}
+
+:flag_bf: At least 79 people died in an attack by suspected jihadists on Saturday night in the northern Burkina Faso town of Seytenga, according to a new government report Tuesday
+{{Mikolaj Szum}}
+
+Growing numbers of young Africans want to move abroad, survey suggests. African youth have lost confidence in their own countries and the continent as a whole to meet their aspirations and a rising number are considering moving abroad, according to a survey of young people from 15 countries. Frustration seemed to have increased the desire to emigrate. While the previous survey found more than two-thirds of young people wanting to stay put, now 52% planned to move abroad in the next three years, with the number increasing to three-quarters in Nigeria and Sudan.
+{{Mikolaj Szum}}
+
+**Regional News**
+__EU__
+:flag_lt: :flag_ru: Lithuanian authorities have banned the transit through their territory of goods to the Russian enclave of Kaliningrad that are subject to European Union sanctions, according to the national rail service. The enclave – home to the Russian Baltic Fleet and a deployment location for Moscow’s nuclear-capable Iskander missiles – is sandwiched on the Baltic coast between Lithuania and Poland, both NATO members, and has no land border with Russia. The transit ban took effect on Saturday, according to the cargo arm of Lithuania’s state rail service in a letter to clients. Following “clarification” from the European Commission on the mechanism for applying the sanctions, the transit ban was implemented, according to the letter.
+{{Mikolaj Szum}}
+
+:flag_il: :flag_eg: :flag_eu: Israel and Egypt plan to boost gas exports to Europe under an agreement signed during a Cairo visit Wednesday by the European Commission president as the bloc seeks to wean itself off Russian gas. "Russia's war against Ukraine has exposed our European dependency on Russian fossil fuels, and we want to get rid of this dependency," von der Leyen told a joint press conference with Egyptian President Abdel Fattah al-Sisi. "We want to diversify to trustworthy suppliers, and Egypt is a trustworthy partner."
+{{Mikolaj Szum}}
+
+__British Isles__
+:flag_uk: The head of the TUC, which has organised thousands of people to rally against the cost-of-living crisis, has warned the prime minister not to put responsibility for it on workers. Earlier, Mr Johnson said Britain would get through the crisis and “come through on the other side strongly” as he said he sympathised with people facing pressure. The TUC says workers have lost almost £20,000 since 2008 because pay has not kept pace with inflation.
+{{Mikolaj Szum}}
+
+:flag_ie: A set of landmark loyalist murals in east Belfast have been painted over. The murals, which adorned the gable walls of properties on the Newtownards Road, were removed earlier this week. The site, known as 'Freedom Corner', is popular with tourists and other visitors to the city. For decades the walls have hosted several paintings glorifying the UDA, which was formed in 1971. Tribute was also paid to the UFF, a cover name used by the UDA to kill
+{{Mikolaj Szum}}
+
+:scotland: Next week's three-day rail strike will cut off communities outside of central Scotland, business leaders have warned. ScotRail faces having to cancel more than 90% of services if the planned strike by signal workers goes ahead. It will only operate a very limited service on five routes - all of them in the central belt. Aberdeen and Grampian Chamber of Commerce called for "lifeline" morning and evening services elsewhere in the country. 
+{{Mikolaj Szum}}

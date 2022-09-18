@@ -1,0 +1,50 @@
+body {
+	font-size: 21px;
+	background-color: #222222;
+	color: #dddddd;
+	font-family: "sans-serif";
+}
+
+.head {
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.subhead {
+	font-size: 21px;
+	text-decoration: underline;
+	margin-top: 32px;
+}
+
+.pgraph {
+	font-size: 16px;
+}
+
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+    max-width: 819px;
+    margin: auto;
+}
+
+.date {
+	text-align: center;
+	font-size: 21px;
+}
+
+.issue_link {
+	font-size: 16px;
+}
+
+a {
+	color: #8899CC;
+}
+
+.source {
+	font-size: 12px;
+}
+
+.author {
+    font-size: 9px;
+    margin-left: 10px;
+}
